@@ -1,2 +1,2 @@
 # Aibook
-Writing a book on multivariate intelligence testing
+Writing an AI testing book
